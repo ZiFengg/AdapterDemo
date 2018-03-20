@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>Python</item>
+        <item>HP LoadRunner</item>
+        <item>Android</item>
+        <item>Xcode</item>
+    </string-array>
+</resources>
